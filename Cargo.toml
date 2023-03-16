@@ -1,5 +1,5 @@
 [package]
-name = "rust-template"
+name = "example-polas"
 version = "0.0.0-develop"
 authors = ["fg51 <zknsftk1msrk@gmail.com>"]
 edition = "2021"
